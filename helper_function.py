@@ -55,7 +55,3 @@ def load_file_rmv_punct():
     bangla_data_after_lowercase = lower_case(bangla_data)
 
     return eng_data_after_lowercase,bangla_data_after_lowercase
-
-
-k,l = load_file_rmv_punct()
-print(k)
