@@ -1,0 +1,201 @@
+Do you have something for me?	তোমার কি আমার জন্য কিছু আছে?
+Do you have something to add?	তোমার কি কিছু যোগ করার আছে?
+Do you have something to say?	তোমার কি বলার আছে?
+Do you have something to say?	তোমার কি বলার আছে?
+Do you have to make a speech?	আপনি একটি বক্তৃতা করতে হবে?
+Do you have what I asked for?	আমি কি আপনার জন্য জিজ্ঞাসা আছে?
+Do you have what I asked for?	আমি কি আপনার জন্য জিজ্ঞাসা আছে?
+Do you honestly believe that?	আপনি কি সত্যই বিশ্বাস করেন?
+Do you honestly believe that?	আপনি কি সত্যই বিশ্বাস করেন?
+Do you know all these people?	আপনি কি এই সব মানুষ জানেন?
+Do you know all these people?	আপনি কি এই সব মানুষ জানেন?
+Do you know how to cook fish?	আপনি মাছ রান্না কিভাবে জানেন?
+Do you know how to cook meat?	আপনি কি মাংস রান্না করতে জানেন?
+Do you know what he has done?	আপনি কি জানেন তিনি কি করেছেন?
+Do you know what it's called?	আপনি কি এটা বলা হয় জানেন?
+Do you know what it's called?	আপনি কি এটা বলা হয় জানেন?
+Do you know what the time is?	তুমি কি জানো সময় কি?
+Do you like the way you look?	আপনি কি তাকান পছন্দ করেন?
+Do you like the way you look?	আপনি কি তাকান পছন্দ করেন?
+Do you like the way you look?	আপনি কি তাকান পছন্দ করেন?
+Do you like the way you look?	আপনি কি তাকান পছন্দ করেন?
+Do you mean you're giving up?	আপনি কি ছেড়ে দিচ্ছেন?
+Do you mean you're giving up?	আপনি কি ছেড়ে দিচ্ছেন?
+Do you mean you're giving up?	আপনি কি ছেড়ে দিচ্ছেন?
+Do you mean you're giving up?	আপনি কি ছেড়ে দিচ্ছেন?
+Do you mind if I get started?	আপনি যদি শুরু করেন তবে কি মনে করেন?
+Do you mind if I get started?	আপনি যদি শুরু করেন তবে কি মনে করেন?
+Do you mind if I help myself?	আমি যদি নিজেকে সাহায্য না মনে করেন?
+Do you mind if I help myself?	আমি যদি নিজেকে সাহায্য না মনে করেন?
+Do you mind if I try this on?	আমি এই চেষ্টা করলে আপনি কি মনে করেন?
+Do you mind if I try this on?	আমি এই চেষ্টা করলে আপনি কি মনে করেন?
+Do you mind opening the door?	আপনি কি দরজা খোলার কথা ভাবছেন?
+Do you often go to see plays?	আপনি প্রায়ই নাটকগুলি দেখতে যান?
+Do you really think it's bad?	আপনি সত্যিই এটা খারাপ মনে করেন?
+Do you really think it's bad?	আপনি সত্যিই এটা খারাপ মনে করেন?
+Do you speak French fluently?	আপনি স্পষ্টভাবে ফরাসি কথা বলতে চান?
+Do you speak French fluently?	আপনি স্পষ্টভাবে ফরাসি কথা বলতে চান?
+Do you take American Express?	আপনি আমেরিকান এক্সপ্রেস নিতে না?
+Do you take American Express?	আপনি আমেরিকান এক্সপ্রেস নিতে না?
+Do you think I could do that?	আপনি কি মনে করেন আমি এটা করতে পারি?
+Do you think I could do that?	আপনি কি মনে করেন আমি এটা করতে পারি?
+Do you think Tom can find it?	আপনি কি মনে করেন টম এটা খুঁজে পেতে পারেন?
+Do you think Tom can find it?	আপনি কি মনে করেন টম এটা খুঁজে পেতে পারেন?
+Do you think Tom is still up?	আপনি কি মনে করেন টম এখনও পর্যন্ত?
+Do you think about Tom a lot?	আপনি টম সম্পর্কে অনেক মনে করেন?
+Do you think about Tom a lot?	আপনি টম সম্পর্কে অনেক মনে করেন?
+Do you think yours is better?	আপনি আপনার ভাল মনে করেন?
+Do you understand everything?	তুমি কি সবকিছু বুঝছ?
+Do you understand everything?	তুমি কি সবকিছু বুঝছ?
+Do you want something to eat?	আপনি কিছু খাওয়া চান?
+Do you want something to eat?	আপনি কিছু খাওয়া চান?
+Do you want something to eat?	আপনি কিছু খাওয়া চান?
+Do you want something to eat?	আপনি কিছু খাওয়া চান?
+Do you want to dance with me?	তুমি কি আমার সাথে নাচতে চাও?
+Do you want to do this later?	আপনি পরে এই করতে চান?
+Do you want to do this later?	আপনি পরে এই করতে চান?
+Do you want to eat something?	তুমি কি কিছু খেতে চাও?
+Do you want to eat something?	তুমি কি কিছু খেতে চাও?
+Do you want to go for a swim?	আপনি একটি সাঁতার কাটা জন্য যেতে চান?
+Do you want to go for a swim?	আপনি একটি সাঁতার কাটা জন্য যেতে চান?
+Do you want to make me happy?	আপনি আমাকে খুশি করতে চান?
+Do you want to play with Tom?	আপনি কি টম খেলতে চান?
+Do you want to play with Tom?	আপনি কি টম খেলতে চান?
+Do you want to watch a movie?	তুমি কি একটা সিনেমা দেখতে চাও?
+Do you want to watch a movie?	তুমি কি একটা সিনেমা দেখতে চাও?
+Do your best and don't worry.	আপনার সেরা কি এবং চিন্তা করবেন না
+Do your best and don't worry.	আপনার সেরা কি এবং চিন্তা করবেন না
+Do your homework by yourself.	নিজের দ্বারা আপনার বাড়ির কাজ করবেন
+Do your homework by yourself.	নিজের দ্বারা আপনার বাড়ির কাজ করবেন
+Do your homework by yourself.	নিজের দ্বারা আপনার বাড়ির কাজ করবেন
+Do your homework by yourself.	নিজের দ্বারা আপনার বাড়ির কাজ করবেন
+Do your homework by yourself.	নিজের দ্বারা আপনার বাড়ির কাজ করবেন
+Do your parents speak French?	আপনার বাবা কি ফরাসি ভাষায় কথা বলবেন?
+Do your parents speak French?	আপনার বাবা কি ফরাসি ভাষায় কথা বলবেন?
+Does anybody know about this?	কেউ কি এই সম্পর্কে জানেন?
+Does anyone have an antidote?	কেউ কি একটি টিস্যু আছে?
+Does anyone know you're here?	কেউ কি আপনি এখানে আছেন জানেন?
+Does anyone know you're here?	কেউ কি আপনি এখানে আছেন জানেন?
+Does anyone know you're here?	কেউ কি আপনি এখানে আছেন জানেন?
+Does anyone know you're here?	কেউ কি আপনি এখানে আছেন জানেন?
+Does anyone need a lift home?	কেউ কি একটি লিফট হোম প্রয়োজন?
+Does he need to go right now?	তাকে কি এখনই যেতে হবে?
+Does that mean you bought it?	এর অর্থ কি আপনি এটি কেনা?
+Does that mean you bought it?	এর অর্থ কি আপনি এটি কেনা?
+Does that mean you bought it?	এর অর্থ কি আপনি এটি কেনা?
+Does that mean you bought it?	এর অর্থ কি আপনি এটি কেনা?
+Does this book belong to you?	এই বই আপনার সাথে কি?
+Does this book belong to you?	এই বই আপনার সাথে কি?
+Doing that isn't a good idea.	যে একটি ভাল ধারণা না।
+Don't act like a know-it-all.	একটি জানি-এটি-সব মত কাজ করবেন না
+Don't act like a know-it-all.	একটি জানি-এটি-সব মত কাজ করবেন না
+Don't act like a know-it-all.	একটি জানি-এটি-সব মত কাজ করবেন না
+Don't act like a know-it-all.	একটি জানি-এটি-সব মত কাজ করবেন না
+Don't ask too many questions.	অনেক প্রশ্ন জিজ্ঞাসা করবেন না
+Don't ask too many questions.	অনেক প্রশ্ন জিজ্ঞাসা করবেন না
+Don't be ashamed of yourself.	নিজেকে লজ্জিত করবেন না
+Don't be ashamed of yourself.	নিজেকে লজ্জিত করবেন না
+Don't be so hard on yourself.	নিজের উপর এত কঠিন হবেনা
+Don't be so hard on yourself.	নিজের উপর এত কঠিন হবেনা
+Don't be so hard on yourself.	নিজের উপর এত কঠিন হবেনা
+Don't be so hard on yourself.	নিজের উপর এত কঠিন হবেনা
+Don't be so hard on yourself.	নিজের উপর এত কঠিন হবেনা
+Don't be so hard on yourself.	নিজের উপর এত কঠিন হবেনা
+Don't do anything stupid, OK?	মূঢ় কিছু করবেন না, ঠিক আছে?
+Don't do anything stupid, OK?	মূঢ় কিছু করবেন না, ঠিক আছে?
+Don't ever underestimate Tom.	কখনও টম underestimate করবেন না
+Don't exceed the speed limit.	গতি সীমা অতিক্রম করবেন না
+Don't expect too much of him.	তার খুব বেশী আশা করবেন না।
+Don't expect too much of him.	তার খুব বেশী আশা করবেন না।
+Don't forget your ice skates.	আপনার বরফ স্কেটস
+Don't forget your toothbrush.	আপনার টুথব্রাশ ভুলবেন না।
+Don't forget your toothbrush.	আপনার টুথব্রাশ ভুলবেন না।
+Don't give up on your dreams.	আপনার স্বপ্ন ছেড়ে দিতে না
+Don't give up on your dreams.	আপনার স্বপ্ন ছেড়ে দিতে না
+Don't insult my intelligence.	আমার বুদ্ধিমত্তা অপমান করো না
+Don't insult my intelligence.	আমার বুদ্ধিমত্তা অপমান করো না
+Don't intrude on her privacy.	তার গোপনীয়তা ঘিরে না।
+Don't lean against this wall.	এই প্রাচীর বিরুদ্ধে ঝুঁকে না।
+Don't leave me alone, please.	আমাকে ছাড়ো না, প্লিজ
+Don't let him know the truth.	তাকে সত্য জানি না।
+Don't let him know the truth.	তাকে সত্য জানি না।
+Don't let your feelings show.	আপনার অনুভূতি প্রদর্শন করবেন না।
+Don't let your feelings show.	আপনার অনুভূতি প্রদর্শন করবেন না।
+Don't let your feelings show.	আপনার অনুভূতি প্রদর্শন করবেন না।
+Don't let your feelings show.	আপনার অনুভূতি প্রদর্শন করবেন না।
+Don't make a scene in public.	জনসাধারণের মধ্যে একটি দৃশ্য তৈরি করবেন না
+Don't make fun of old people.	পুরোনো মানুষ মজা করা না
+Don't make fun of that child.	সেই শিশুটির মজা করো না
+Don't make me come after you.	আমাকে তোমার পরে আসো না
+Don't make me come after you.	আমাকে তোমার পরে আসো না
+Don't make me come back here.	আমাকে এখানে ফিরে আসতে না।
+Don't make me come back here.	আমাকে এখানে ফিরে আসতে না।
+Don't make me hurt you again.	আমাকে আবার আপনাকে আঘাত করতে না।
+Don't make me hurt you again.	আমাকে আবার আপনাকে আঘাত করতে না।
+Don't mention this to anyone.	এটা কারো কাছে উল্লেখ করবেন না
+Don't mention this to anyone.	এটা কারো কাছে উল্লেখ করবেন না
+Don't misunderstand my words.	আমার কথা ভুল বুঝবে না।
+Don't misunderstand my words.	আমার কথা ভুল বুঝবে না।
+Don't move unless I tell you.	আমি আপনাকে বলার আগে না সরানো।
+Don't move unless I tell you.	আমি আপনাকে বলার আগে না সরানো।
+Don't play ball in this room.	এই রুমে বল খেলা না।
+Don't press the wrong button.	ভুল বোতাম টিপুন না।
+Don't put books on the table.	টেবিলে বই লিখবেন না।
+Don't put sugar in my coffee.	আমার কফি চিনি না।
+Don't raise your voice at me.	আমার সম্পর্কে আপনার ভয়েস বাড়া না।
+Don't read that kind of book.	যে ধরনের বই পড়া না
+Don't read that kind of book.	যে ধরনের বই পড়া না
+Don't run around in the room.	রুম মধ্যে চারপাশে চালানো করবেন না।
+Don't scare me like that, OK?	আমার মতো ভীত হবে না, ঠিক আছে?
+Don't scare me like that, OK?	আমার মতো ভীত হবে না, ঠিক আছে?
+Don't scare me like that, OK?	আমার মতো ভীত হবে না, ঠিক আছে?
+Don't share this with anyone.	এটা কারো সাথে শেয়ার করবেন না।
+Don't share this with anyone.	এটা কারো সাথে শেয়ার করবেন না।
+Don't share this with anyone.	এটা কারো সাথে শেয়ার করবেন না।
+Don't speak to him like that.	তার মত কথা বলো না
+Don't take your eyes off Tom.	টম বন্ধ আপনার চোখ গ্রহণ করবেন না।
+Don't tell Father about this.	এই সম্পর্কে বাবা না বলুন।
+Don't tell Father about this.	এই সম্পর্কে বাবা না বলুন।
+Don't tell anyone I was here.	আমি এখানে ছিল কেউ না বলুন।
+Don't tell me you can't read.	আমাকে বলো না তুমি পড়তে পারবে না।
+Don't tell me you can't read.	আমাকে বলো না তুমি পড়তে পারবে না।
+Don't tell me you can't swim.	আমাকে বলো না তুমি সাঁতার করতে পার না।
+Don't tell me you can't swim.	আমাকে বলো না তুমি সাঁতার করতে পার না।
+Don't throw away your chance.	আপনার সুযোগ নিক্ষেপ না।
+Don't underestimate my power.	আমার ক্ষমতা কম মূল্যায়ন করবেন না
+Don't underestimate my power.	আমার ক্ষমতা কম মূল্যায়ন করবেন না
+Don't underestimate yourself.	নিজেকে অমান্য করবেন না
+Don't wait for me for dinner.	ডিনার জন্য আমার জন্য অপেক্ষা করবেন না
+Don't wait for me for dinner.	ডিনার জন্য আমার জন্য অপেক্ষা করবেন না
+Don't worry about me so much.	আমার সম্পর্কে এত চিন্তা করবেন না
+Don't worry about me so much.	আমার সম্পর্কে এত চিন্তা করবেন না
+Don't worry about me so much.	আমার সম্পর্কে এত চিন্তা করবেন না
+Don't worry about me so much.	আমার সম্পর্কে এত চিন্তা করবেন না
+Don't worry about what I did.	আমি কি কি চিন্তা করবেন না।
+Don't worry about what I did.	আমি কি কি চিন্তা করবেন না।
+Don't worry about what I did.	আমি কি কি চিন্তা করবেন না।
+Don't worry about what I did.	আমি কি কি চিন্তা করবেন না।
+Don't worry. Everything's OK.	চিন্তা করবেন না সবকিছু ঠিক আছে.
+Don't worry. Everything's OK.	চিন্তা করবেন না সবকিছু ঠিক আছে.
+Don't worry. We're safe here.	চিন্তা করবেন না আমরা এখানে নিরাপদ
+Don't worry. We're safe here.	চিন্তা করবেন না আমরা এখানে নিরাপদ
+Don't write in library books.	গ্রন্থাগারের বইগুলিতে লিখবেন না।
+Don't you have any good news?	আপনার কোন সুসংবাদ নেই?
+Don't you have any good news?	আপনার কোন সুসংবাদ নেই?
+Don't you have anything else?	তোমার কি অন্য কিছু নেই?
+Don't you have classes today?	আজ তোমার ক্লাস নেই?
+Don't you have classes today?	আজ তোমার ক্লাস নেই?
+Don't you move or I'll shoot.	আপনি না সরানো বা আমি অঙ্কুর করব।
+Don't you move or I'll shoot.	আপনি না সরানো বা আমি অঙ্কুর করব।
+Don't you recognize that guy?	তুমি কি সেই লোককে চিনতে পার না?
+Don't you recognize that guy?	তুমি কি সেই লোককে চিনতে পার না?
+Don't you recognize that man?	তুমি কি সেই মানুষকে চিনতে না?
+Don't you recognize that man?	তুমি কি সেই মানুষকে চিনতে না?
+Don't you want to come along?	তুমি কি বরাবর আসতে চাও না?
+Draw me a seven-pointed star.	আমাকে একটি সাত-ইঙ্গিত তারকা অঙ্কুর
+Draw me a seven-pointed star.	আমাকে একটি সাত-ইঙ্গিত তারকা অঙ্কুর
+Draw me a seven-pointed star.	আমাকে একটি সাত-ইঙ্গিত তারকা অঙ্কুর
+Draw me a seven-pointed star.	আমাকে একটি সাত-ইঙ্গিত তারকা অঙ্কুর
+Dust got into one of my eyes.	ডাস্ট আমার চোখের এক মধ্যে পেয়েছিলাম।
+Each one does what he wishes.	প্রতিটি এক তিনি ইচ্ছা করে কি।
+Each state had just one vote.	প্রতিটি রাষ্ট্রের একমাত্র ভোট ছিল।
