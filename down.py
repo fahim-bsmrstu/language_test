@@ -12,7 +12,13 @@ local_repository = 'temp'
 if tf.__version__[0]<'1':
     from tensorflow.models.rnn.translate import seq2seq_model
 else:
-
+    if not os.path.exists(local_repository):
+        from git import Repo
+        tf_model_repository = 'https://github.com/tensorflow/models'
+        Repo.clone_from(tf_model_repository,local_repository)
+        sys.path.insert(0,'temp/tutorials/rnn/translate/')
+        import seq2seq_model as seq2seq_model
+        import data_utils as data_utils
 
 
 
