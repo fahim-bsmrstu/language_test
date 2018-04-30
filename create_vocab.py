@@ -31,3 +31,6 @@ def make_vocab(file):
                 temp_sent.append(0)
         lang_processed.append(temp_sent)
 
+
+    return lang_processed
+
